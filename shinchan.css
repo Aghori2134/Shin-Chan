@@ -1,0 +1,11 @@
+body {
+	font-family: 'Fredoka', 'Inter', sans-serif;
+}
+.shinchan-title {
+	color: #1e40af;
+	text-shadow: 3px 3px 0px #fde047, 5px 5px 0px #ef4444;
+}
+.hero{
+	background-image:url('images/hero.png');
+	background-size:100% 100%;
+}
